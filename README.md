@@ -3,3 +3,4 @@
 [Stock Analysis System2.pdf](https://github.com/user-attachments/files/27538861/Stock.Analysis.System2.pdf)
 # Stock-Market-Analysis-System
 
+@Dr-Mo-Khalaf
